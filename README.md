@@ -9,7 +9,7 @@ You can download it from **[DevTools@Google Play](https://play.google.com/store/
 Visit [the FAQ of Dev Tools App](https://docs.google.com/document/d/1xbdAdHJOXp_kQ1NrdEGE7h6oDpcGlSg40zLxM-chCb0/edit?usp=sharing)
 
 ## Feedback
-Create a new issue: https://github.com/TimeShining/Android-Dev-Tools/issues/new
+Any suggestions or bugs are welcome to give us feedback: https://github.com/TimeShining/Android-Dev-Tools/issues/new
 
 ## Full description
 Android Dev Tools is a powerful, productive, automation, essential Android Development Assistant, It can improve your development productivity. It can be used to decompile other App, view layout and view of other app, view color of screen(color sampler or eyedropper), view newest open projects, view the activities history, view manifest of any apps, view recently used or installed apps, extract any app's apk or so, debug applications, view phone hardware and software-related information and so on, the more features will be added later. including:  
