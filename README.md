@@ -1,5 +1,7 @@
 # [Dev Tools(Android Developer Tools) - Device Info](https://play.google.com/store/apps/details?id=cn.trinea.android.developertools)
 
+**Enjoy it**：https://play.google.com/store/apps/details?id=cn.trinea.android.developertools
+
 ## About this App
 The Dev Tools App is a powerful android development tool that can help you improve efficiency greatly, It can be used to view the latest open source projects, view activity history, view manifest, decompile, color picker, extract apk or so, view app info, open or close the options in the developer options quickly, and more.  
 ![Android Dev Tools](https://lh3.googleusercontent.com/ERb20Y50r3u_tZMMlqpH5cnS_MC_n366WoKvEjJyFfHz6d-EwvhaEUf7ZKAgRajboTWR=w720-h440-rw)  
@@ -55,3 +57,5 @@ include settings, System UI Tuner, language switching, developer options, my app
 (3) You can start the tool through the shortcut quickly on Android 7.1, long pressing the application icon in the desktop,  
 (4) You can add the tool to the notification bar by Quick Settings Tile on Android 7.0.  
 You even don't need to open the app by these shortcuts.  
+
+**Enjoy it**：https://play.google.com/store/apps/details?id=cn.trinea.android.developertools
