@@ -7,8 +7,11 @@ The Dev Tools App is a powerful android development tool that can help you impro
 ![Android Dev Tools](https://lh3.googleusercontent.com/ERb20Y50r3u_tZMMlqpH5cnS_MC_n366WoKvEjJyFfHz6d-EwvhaEUf7ZKAgRajboTWR=w720-h440-rw)  
 You can download it from **[DevTools@Google Play](https://play.google.com/store/apps/details?id=cn.trinea.android.developertools)**.  
 
+## Features Introducton
+Visit [the FAQ of Dev Tools App](https://timeshining.com/dev-tools)
+
 ## FAQ
-Visit [the FAQ of Dev Tools App](https://docs.google.com/document/d/1xbdAdHJOXp_kQ1NrdEGE7h6oDpcGlSg40zLxM-chCb0/edit?usp=sharing)
+Visit [the FAQ of Dev Tools App](https://timeshining.com/developer-tools/faq)
 
 ## Feedback
 Any suggestions or bugs are welcome to give us feedback: https://github.com/TimeShining/Android-Dev-Tools/issues/new
