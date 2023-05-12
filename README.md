@@ -8,7 +8,7 @@ The Dev Tools App is a powerful android development tool that can help you impro
 You can download it from **[DevTools@Google Play](https://play.google.com/store/apps/details?id=cn.trinea.android.developertools)**.  
 
 ## Features Introducton
-Visit [the FAQ of Dev Tools App](https://timeshining.com/dev-tools)
+Visit [the Features Introducton of Dev Tools App](https://timeshining.com/dev-tools)
 
 ## FAQ
 Visit [the FAQ of Dev Tools App](https://timeshining.com/developer-tools/faq)
